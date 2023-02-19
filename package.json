@@ -1,0 +1,22 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Modelos de padão de projeto em TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertoDaleGui/design-patterns.git"
+  },
+  "author": "Roberto D'Alessandro Guimarães",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertoDaleGui/design-patterns/issues"
+  },
+  "homepage": "https://github.com/RobertoDaleGui/design-patterns#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}

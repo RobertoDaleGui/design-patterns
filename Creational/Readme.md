@@ -1,0 +1,1 @@
+Os padrões criacionais são usados para criar objetos que flexibilizem e reutilizem códigos existentes.
