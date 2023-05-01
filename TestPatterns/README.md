@@ -1,0 +1,14 @@
+- Padrão de Teste de Unidade
+- Padrão de Teste de Integração
+- Padrão de Teste de Aceitação
+- Padrão de Teste Funcional
+- Padrão de Teste de Desempenho
+- Padrão de Teste de Carga
+- Padrão de Teste de Estresse
+- Padrão de Teste de Segurança
+- Padrão de Teste de Regressão
+- Padrão de Teste A/B
+- Padrão de Teste Exploratório
+- Padrão de Teste de Caixa Branca
+- Padrão de Teste de Caixa Preta
+- Padrão de Teste de Mutação
