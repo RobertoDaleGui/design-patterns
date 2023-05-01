@@ -1,0 +1,10 @@
+- Pipeline de compilação
+- Pipeline de implantação
+- Pipeline de teste
+- Pipeline de revisão de código
+- Pipeline de liberação
+- Pipeline de monitoramento
+- Pipeline de rollback
+- Pipeline de integração
+- Pipeline de segurança
+- Pipeline de empacotamento
