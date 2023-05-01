@@ -1,0 +1,10 @@
+- Padrão de Autenticação
+- Padrão de Autorização
+- Padrão de Controle de Acesso Baseado em Função (RBAC)
+- Padrão de Proteção de Dados
+- Padrão de Registro e Monitoramento
+- Padrão de Detecção e Resposta a Incidentes
+- Padrão de Criptografia
+- Padrão de Proteção de Infraestrutura
+- Padrão de Segurança de Rede
+- Padrão de Segurança de Desenvolvimento
