@@ -1,0 +1,10 @@
+- Padrão de Blue-Green Deployment
+- Padrão de Canary Release
+- Padrão de Rolling Release
+- Padrão de Rolling Update
+- Padrão de Feature Toggle
+- Padrão de Dark Launch
+- Padrão de Continuous Deployment
+- Padrão de Atomic Deploy
+- Padrão de Immutable Server
+- Padrão de Dependency Injection
